@@ -1,6 +1,6 @@
  Hi there, I'm Damiloa Abiona.
  
- 
+   ![Twitter URL](https://img.shields.io/twitter/url?color=k&label=LINKEDIN&logo=LINKEDIN&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdamilola-abiona-2990781b4%2F)
   ![Twitter URL](https://img.shields.io/twitter/url?color=gr&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FDamilolaAbiona8)
  
 
