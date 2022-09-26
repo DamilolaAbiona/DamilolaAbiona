@@ -7,7 +7,6 @@
 
 
  Ethusiastic Frontend Developer with pratical experience in progressive Web App Development.. I really enjoy learning languages and frameworks like Javascript  and React. I also enjoy wireframing,ui,ux and design in general.
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamilolaAbiona)](https://github.com/anuraghazra/github-readme-stats &theme=dark&show_icons=true)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamilolaAbiona&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamilolaAbionaa&show_icons=true&theme=radical)
 
