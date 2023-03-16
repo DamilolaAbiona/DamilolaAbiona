@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm Damilola Abiona, I am an Enthusiastic Frontend Developer with practical experience in progressive Web App Development.. I really enjoy learning languages and frameworks like Javascript and React. I also enjoy wireframing,UI,UX, and design in general. - 🔭 I’m currently working on Bug Tracker App - 🌱 I’m currently learning Javascript.
+I'm Damilola Abiona, I am an Enthusiastic Frontend Developer with practical experience in progressive Web App Development.. I really enjoy learning languages and frameworks like Javascript and React. I also enjoy wireframing,UI,UX, and design in general.
 
 * 🌍  I'm based in Lagos
 * ✉️  You can contact me at [Damilolaabiona8@gmail.com](mailto:Damilolaabiona8@gmail.com)
