@@ -5,8 +5,6 @@ Frontend Developer
 ------------------
 
 
-I'm Damilola Abiona, I am an Enthusiastic Frontend Developer with practical experience in progressive Web App Development.. I really enjoy learning languages and frameworks like Javascript and React. I also enjoy wireframing,UI,UX, and design in general my passion for writing secure and non vulnerable codes led me into cybersecurity.
-===
 I'm Damilola Abiona, I am an Enthusiastic Frontend Developer with practical experience in progressive Web App Development.. I really enjoy learning languages and frameworks like Javascript and React. I also enjoy wireframing,UI,UX, and design in general my passion for writing secure and  non vulnerable code led me into cybersecurity and I chose penetration testing a niche in web hacking.
 
 
